@@ -39,7 +39,7 @@ The discount factor $\gamma$ becomes irrelevant. **RL degenerates into a bandit.
 
 ## Experiment
 
-Prices are simulated via Geometric Brownian Motion (log-returns $\sim \mathcal{N}(\mu - \sigma^2/2, \sigma^2)$ ) with $T = 10{,}000$ steps, $\mu = 0$, $\sigma = 0.01$, and $S_0 = 100$. Both strategies trade the same price paths and are compared on **Sharpe ratio**.
+Prices are simulated via Geometric Brownian Motion $(\text{log-returns} \sim \mathcal{N}(\mu - \sigma^2/2, \sigma^2))$ with $T = 10{,}000$ steps, $\mu = 0$, $\sigma = 0.01$, and $S_0 = 100$. Both strategies trade the same price paths and are compared on **Sharpe ratio**.
 
 ### Monte Carlo Hypothesis Test (200 Trials)
 
