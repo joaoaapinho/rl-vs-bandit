@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="misc/q-trade.png" alt="Project Logo" width="60%">
+  <img src="misc/q-trade.png" alt="Project Logo" width="30%">
 </p>
 
 <h1 align="center">Stop Teaching Your Portfolio to Walk</h1>
 <h3 align="center">Why Reinforcement Learning Might Be Overkill for Most Traders</h3>
+
 ---
 
 ## Overview
