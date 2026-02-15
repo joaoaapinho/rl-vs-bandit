@@ -1,0 +1,6 @@
+numpy
+matplotlib
+catppuccin[matplotlib]
+pandas
+scipy
+statsmodels
