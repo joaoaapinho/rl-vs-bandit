@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="misc/walk_portfolio.png" alt="Project Logo" width="30%">
+  <img src="misc/walk_portfolio.png" alt="Project Logo" width="20%">
 </p>
 
 <h1 align="center">Stop Teaching Your Portfolio to Walk</h1>
